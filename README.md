@@ -1,6 +1,6 @@
 # save-driven-development
 Automated software engineering workflow based on gitnotify and the feature-branch git workflow. 
-Save driven development (sdd) automates the commit creation and push process using current branch (using the feature-branch model) and file context.
+Save driven development (sdd) automates the commit creation and push process using current branch and file context.
 Individual commit creation on every file update can very quickly lead to a very large number of commits in the history, typically more than can be reasonably kept track of.
 For this reason, the sdd workflow emphasizes heavy usage of `tags`.
 
